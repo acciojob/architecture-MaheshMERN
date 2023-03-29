@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.imageContainer {
+	width : 1100px
+}
+img {
+	width : 200px
+}
+.data {
+	width : 600
+}
